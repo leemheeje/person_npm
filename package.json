@@ -1,0 +1,19 @@
+{
+  "name": "person_npm-master-tnd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leemheeje/person_npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leemheeje/person_npm/issues"
+  },
+  "homepage": "https://github.com/leemheeje/person_npm#readme"
+}
